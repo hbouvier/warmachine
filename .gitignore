@@ -1,0 +1,16 @@
+# Mac OS X
+.DS_Store
+
+# IntelliJ
+.idea/
+.idea_modules/
+*/*.iml
+
+# SBT
+project/target/
+target/
+.history
+
+# Git
+*.orig
+
